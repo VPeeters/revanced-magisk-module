@@ -8,8 +8,8 @@ Patches: revanced-patches-2.106.1.jar
 
   
 **App Versions:**  
-Twitter: 9.65.3-release.0  
 YouTube: 17.43.36  
-TikTok: 26.9.1  
+TikTok: 26.9.3  
+Twitter: 9.65.3-release.0  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  

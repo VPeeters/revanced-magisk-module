@@ -1,10 +1,10 @@
 CLI: revanced-cli-2.17.0-all.jar  
-Integrations: app-release-unsigned-v0.74.0.apk  
-Patches: revanced-patches-2.114.0.jar  
+Integrations: app-release-unsigned-v0.74.1.apk  
+Patches: revanced-patches-2.117.0.jar  
 
-### [2.114.0](https://github.com/revanced/revanced-patches/compare/v2.113.0...v2.114.0) (2022-11-20)
+### [2.117.0](https://github.com/revanced/revanced-patches/compare/v2.116.0...v2.117.0) (2022-11-21)
 ### Features
-* **youtube:** `disable-zoom-haptics` patch ([#1079](https://github.com/revanced/revanced-patches/issues/1079)) ([a7cfba5](https://github.com/revanced/revanced-patches/commit/a7cfba54fbb3ee0ee5511a45d0b3c4620eb0c861))
+* **tiktok:** `tiktok-web-login` patch ([#593](https://github.com/revanced/revanced-patches/issues/593)) ([233e578](https://github.com/revanced/revanced-patches/commit/233e578b4d1cd5e783369e0c855e8246d158f8ed))
 
   
 **App Versions:**  

@@ -1,6 +1,6 @@
 {
-  "version": "v27.1.1",
-  "versionCode": 22,
-  "zipUrl": "https://github.com/VPeeters/revanced-magisk-module/releases/download/22/tiktok-revanced-magisk-v27.1.1-all.zip",
+  "version": "v27.1.2",
+  "versionCode": 23,
+  "zipUrl": "https://github.com/VPeeters/revanced-magisk-module/releases/download/23/tiktok-revanced-magisk-v27.1.2-all.zip",
   "changelog": "https://raw.githubusercontent.com/VPeeters/revanced-magisk-module/update/build.md"
 }

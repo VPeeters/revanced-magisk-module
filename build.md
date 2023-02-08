@@ -15,8 +15,8 @@ Patches: revanced-patches-2.159.0.jar
   
 **App Versions:**  
 YouTube: 17.49.37  
-Twitch: 14.4.0  
-Twitter: 9.74.0-release.0  
-Tiktok: 27.9.41  
+Twitter: 9.75.0-release.0  
+Twitch: 14.5.0  
+Tiktok: 28.2.1  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  

@@ -1,6 +1,6 @@
 {
-  "version": "v14.5.2",
-  "versionCode": 59,
-  "zipUrl": "https://github.com/VPeeters/revanced-magisk-module/releases/download/59/twitch-revanced-magisk-v14.5.2-all.zip",
+  "version": "v14.6.0",
+  "versionCode": 60,
+  "zipUrl": "https://github.com/VPeeters/revanced-magisk-module/releases/download/60/twitch-revanced-magisk-v14.6.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/VPeeters/revanced-magisk-module/update/build.md"
 }

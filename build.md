@@ -1,5 +1,5 @@
-CLI: revanced-cli-2.20.0-all.jar  
-Integrations: revanced-integrations-0.99.0-v0.99.0.apk  
+CLI: revanced-cli-2.21.0-all.jar  
+Integrations: revanced-integrations-0.99.0.apk  
 Patches: revanced-patches-2.164.0.jar  
 
 ### [2.164.0](https://github.com/revanced/revanced-patches/compare/v2.163.0...v2.164.0) (2023-02-24)
@@ -12,9 +12,11 @@ Patches: revanced-patches-2.164.0.jar
 
   
 **App Versions:**  
-YouTube: 17.49.37  
-Twitter: 9.76.0-release.0  
+YouTube: 18.03.36  
+Twitter: 9.71.0-release.0  
 Twitch: 14.6.0  
-Tiktok: 28.4.3  
+TikTok: 27.8.3  
+
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  

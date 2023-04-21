@@ -1,6 +1,6 @@
 {
-  "version": "v9.84.0-release.2",
-  "versionCode": 79,
-  "zipUrl": "https://github.com/VPeeters/revanced-magisk-module/releases/download/79/twitter-revanced-magisk-v9.84.0-release.2-all.zip",
+  "version": "v9.85.0-release.0",
+  "versionCode": 80,
+  "zipUrl": "https://github.com/VPeeters/revanced-magisk-module/releases/download/80/twitter-revanced-magisk-v9.85.0-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/VPeeters/revanced-magisk-module/update/build.md"
 }

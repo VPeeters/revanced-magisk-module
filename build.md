@@ -17,7 +17,7 @@ Patches: revanced-patches-2.171.0.jar
 YouTube: 18.15.40  
 Twitter: 9.86.0-release.0  
 Twitch: 14.6.1  
-TikTok: 29.3.3  
+TikTok: 27.8.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 

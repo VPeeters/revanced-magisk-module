@@ -1,6 +1,6 @@
 {
-  "version": "v10.5.0-release.1",
-  "versionCode": 97,
-  "zipUrl": "https://github.com/VPeeters/revanced-magisk-module/releases/download/97/twitter-revanced-magisk-v10.5.0-release.1-all.zip",
+  "version": "v10.10.0-release.0",
+  "versionCode": 98,
+  "zipUrl": "https://github.com/VPeeters/revanced-magisk-module/releases/download/98/twitter-revanced-magisk-v10.10.0-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/VPeeters/revanced-magisk-module/update/build.md"
 }
